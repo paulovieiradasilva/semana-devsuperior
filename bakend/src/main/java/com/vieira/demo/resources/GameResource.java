@@ -9,7 +9,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.vieira.demo.dto.GameDTO;
-import com.vieira.demo.entities.Game;
 import com.vieira.demo.services.GameService;
 
 @RestController
