@@ -8,6 +8,7 @@ export type RecordItem = {
 	moment: string;
 	name: string;
 	age: number;
+	genreName: string;
 	gameTitle: string;
 	gamePlatform: Plataforma;
 	gameGenre: string;
