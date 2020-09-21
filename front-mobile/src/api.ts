@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://sds1-vieira.herokuapp.com';
